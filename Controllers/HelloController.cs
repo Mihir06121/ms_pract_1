@@ -11,6 +11,7 @@ namespace pract_1.Controllers
             {
                 Name = "Mihir",
                 Id = 1,
+                Class = "MSc.IT",
                 Gender = "Male"
             };
 
